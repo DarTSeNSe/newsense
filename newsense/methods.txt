@@ -1,0 +1,1 @@
+point,line,triangle,square,pentagon
